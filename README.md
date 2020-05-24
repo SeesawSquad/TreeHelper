@@ -18,8 +18,8 @@ The list is compliant with Leetcode binary tree format
 tree1 = [1, 2, 3]
 root1 = TreeGenerator.get_bin_tree(a)
 
-tree = [1, 2, 3, None, 4, None, 5]
-root2 = TreeGenerator.get_bin_tree(b)
+tree2 = [1, 2, 3, None, 4, None, 5]
+root2 = TreeGenerator.get_bin_tree(tree2)
 ```
 
 #### TreeHelper.print_tree()
