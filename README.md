@@ -16,7 +16,7 @@ Using a list of node values to get a binary tree.
 The list is compliant with Leetcode binary tree format
 ```
 tree1 = [1, 2, 3]
-root1 = TreeGenerator.get_bin_tree(a)
+root1 = TreeGenerator.get_bin_tree(tree1)
 
 tree2 = [1, 2, 3, None, 4, None, 5]
 root2 = TreeGenerator.get_bin_tree(tree2)
